@@ -1,4 +1,8 @@
 # Análisis Multivariado sobre el sistema educativo en Uruguay, Entre Ríos (2023)
+Este repositorio contiene el código desarrollado por Daiana Gareis y Elias Coradini para la materia Exploración de Datos Multivariados.
+
+## Objetivo 📌
+El propósito de este proyecto es analizar los datos relacionados con el sistema educativo del departamento de Uruguay, provincia de Entre Ríos, durante el año 2023. Se aplican técnicas de análisis multivariado para identificar patrones, tendencias y posibles factores que influyen en el rendimiento académico de los estudiantes.
 
 ## Autores ✒️
 
